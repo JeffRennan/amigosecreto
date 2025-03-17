@@ -7,3 +7,6 @@
  Uma brincadeira maravilhosa, onde você pode se divertir com amigos e familiares. Participe!!
 
  # Como faço para brincar? 
+ - Com a página aberta, adicione os nomes dos participantes.
+ - Clique em "Adicionar".
+ - Depois que colocar os nomes de todos os participantes, clique em "Sortear".
