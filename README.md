@@ -7,9 +7,16 @@
 # Amigo Secreto Alura 
 
  Uma brincadeira maravilhosa, onde você pode se divertir com amigos e familiares. Participe!!
+ Também conhecido como amigo oculto ou amigo invisível, é uma brincadeira popular em diversas culturas. 
+
+ # Objetivo
+ - O objetivo principal é trocar presentes entre amigos e familiares, de forma divertida e misteriosa.
 
  # Como faço para brincar? 
  - Com a página aberta, adicione os nomes dos participantes.
  - Clique em "Adicionar".
  - Depois que colocar os nomes de todos os participantes, clique em "Sortear amigo".
  - Veja o nome do sorteado(a) e aproveitem.
+   
+   ![Captura de tela 2025-03-17 185823 - Copia](https://github.com/user-attachments/assets/3d88c0f1-86ff-4fbd-9e88-dbd318d35ad0)
+
