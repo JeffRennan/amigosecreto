@@ -1,7 +1,8 @@
 
 
 
-![Captura de tela 2025-03-17 185823](https://github.com/user-attachments/assets/8e6dca4c-eb94-4c67-8286-bed0fddbc903)
+
+![Captura de tela 2025-03-17 185823](https://github.com/user-attachments/assets/05068bff-985d-4941-8e09-b527f56fc547)
 
 # Amigo Secreto Alura 
 
