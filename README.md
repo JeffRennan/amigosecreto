@@ -10,3 +10,4 @@
  - Com a página aberta, adicione os nomes dos participantes.
  - Clique em "Adicionar".
  - Depois que colocar os nomes de todos os participantes, clique em "Sortear".
+ - Veja o nome do sorteado(a) e aproveitem.
