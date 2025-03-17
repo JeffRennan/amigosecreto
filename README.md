@@ -20,10 +20,10 @@
  - Veja o nome do sorteado(a) e aproveitem.
 
 # Funcionalidades
-   Reune amigos, colegas e familiares em prol de diversão, muita diversão.
-   Fácil interação
-   Intuitivo
-   Sem restrição de idade
+  - Reune amigos, colegas e familiares em prol de diversão, muita diversão.
+  - Fácil interação
+  - Intuitivo
+  - Sem restrição de idade
    
    ![Com o coração transbordando de alegria e gratidão celebro a conquista de um objetivo que, por muito tempo pareceu distante, mãe com força e coragem consegui alcançar!](https://github.com/user-attachments/assets/3f1cdbe9-dfb0-4dfb-8749-479c8fcfc853)
 
