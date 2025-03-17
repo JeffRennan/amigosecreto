@@ -18,6 +18,7 @@
  - Cada vez que adicionar os participantes, os nomes aparecerão logo abaixo. 
  - Depois que colocar os nomes de todos os participantes, clique em "Sortear amigo".
  - Veja o nome do sorteado(a) e aproveitem.
-   
-   ![Captura de tela 2025-03-17 185823 - Copia](https://github.com/user-attachments/assets/3d88c0f1-86ff-4fbd-9e88-dbd318d35ad0)
+   ![Com o coração transbordando de alegria e gratidão celebro a conquista de um objetivo que, por muito tempo pareceu distante, mãe com força e coragem consegui alcançar!](https://github.com/user-attachments/assets/3f1cdbe9-dfb0-4dfb-8749-479c8fcfc853)
+
+  
 
