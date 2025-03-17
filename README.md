@@ -27,9 +27,13 @@
   - Intuitivo
   - Sem restrição de idade
 
-#__
 
-    **Autor:** Jefferson Rennan  |
+
+
+
+
+
+    **Autor:** Jefferson Rennan    |
     **Ajuda sobre o projeto, entre em contato:** @mechamoJeffe
 
   
