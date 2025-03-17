@@ -26,7 +26,8 @@
   - Fácil interação
   - Intuitivo
   - Sem restrição de idade
-__
+
+#__
 
     **Autor:** Jefferson Rennan  |
     **Ajuda sobre o projeto, entre em contato:** @mechamoJeffe
