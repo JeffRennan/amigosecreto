@@ -4,7 +4,7 @@
 
 ![Captura de tela 2025-03-17 185823](https://github.com/user-attachments/assets/05068bff-985d-4941-8e09-b527f56fc547)
 
-# Amigo Secreto Alura 
+# Amigo Secreto (:
 
  Uma brincadeira maravilhosa, onde você pode se divertir com amigos e familiares. Participe!!
  Também conhecido como amigo oculto ou amigo invisível, é uma brincadeira popular em diversas culturas. 
