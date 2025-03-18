@@ -34,7 +34,7 @@
 
 
     **Autor:** Jefferson Rennan    |
-    **Ajuda sobre o projeto, entre em contato:** @mechamoJeffe
+    **Ajuda sobre o projeto, entre em contato:** jeffersonrennanssilveira@gmail.com
 
   
 
